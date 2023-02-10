@@ -6,7 +6,7 @@
 <div align="center" display="flex" padding="10px">
  <h3 align="center">Tecnologias usadas</h3>
  <img width="200px" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
- <img width="200px" src="[https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg](https://st4.depositphotos.com/28636338/41694/v/600/depositphotos_416943040-stock-illustration-vector-json-file-icon.jpg)">
+ <img width="200px" src="https://png.pngtree.com/png-vector/20190403/ourmid/pngtree-json-file-document-icon-png-image_909539.jpg">
  <img width="200px" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
 </div>
 
