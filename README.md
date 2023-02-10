@@ -1,6 +1,6 @@
 <div>
  <h1 align="center">Projeto - Estão servidos?</h1>
- <h4>Projeto realizado sob treinamento da Reslília</h4>
+ <h4 align="center">Projeto realizado sob treinamento da Reslília</h4>
  <p align="center">Desenvoolvido uma simulação de API com rotas para ser acessadas por métodos.</p>
  </div>
 
@@ -15,8 +15,27 @@
   <h2 align="center">Documentação</h2>
   <h3 align="center">Métodos para acessar as rotas do arquivo json</h3>
   <p align="center">Para acessar as rotas do arquivo json pelo insominia, siga as instruções abaixo:</p>
-  <div>
-   
-   </div>
+  <section>
+      <div>
+         <p text-size="22px">GET</p>
+         <p></p>
+      </div>
+      <div>
+         <p text-size="22px">POST</p>
+         <p></p>
+      </div>
+      <div>
+         <p text-size="22px">PATCH</p>
+         <p></p>
+      </div>
+      <div>
+         <p text-size="22px">PUT</p>
+         <p></p>
+      </div>
+      <div>
+         <p text-size="22px">DELETE</p>
+         <p></p>
+      </div>
+   </section>
 </div>
   
