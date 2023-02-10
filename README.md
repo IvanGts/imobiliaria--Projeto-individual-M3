@@ -3,11 +3,11 @@
  <h4>Projeto realizado sob treinamento da Reslília</h4>
  </div>
 
-<div align="center" display="flex" align="center" padding="10px">
+<div align="center" display="flex" padding="10px">
  <h3 align="center">Tecnologias usadas</h3>
- <img width="100px" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
- <img width="100px" src="https://png.pngtree.com/png-vector/20190412/ourmid/pngtree-json-file-document-icon-png-image_932187.jpg">
- <img width="100px" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
+ <img width="100px" align="center" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
+ <img width="100px" align="center" src="https://png.pngtree.com/png-vector/20190412/ourmid/pngtree-json-file-document-icon-png-image_932187.jpg">
+ <img width="100px" align="center" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
 </div>
 
 <div align="center" display="flex" justify-content="center" flex-direction="column">
