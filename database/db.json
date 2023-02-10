@@ -1,0 +1,82 @@
+{
+  "cliente": [
+    {
+      "nome": "Josefino Dias",
+      "email": "finodias@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Caroline Oliveira",
+      "email": "caroliveira@yahoo.com",
+      "id": 2
+    },
+    {
+      "nome": "Pedro Alvez",
+      "email": "pedrinalvez@gmail.com",
+      "id": 3
+    }
+  ],
+  "funcionario": [
+    {
+      "nome": "Aluisio ",
+      "email": "ivanhsuhsus@gmail.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Ivan ",
+      "email": "ivanhsuhsus@gmail.com"
+    },
+    {
+      "nome": "Ivan ",
+      "email": "ivanhsuhsus@gmail.com",
+      "id": 3
+    }
+  ],
+  "casas": [
+    {
+      "localizacao": "São Paulo",
+      "valor": "430 mil",
+      "metragem": "149m²",
+      "id": 1
+    },
+    {
+      "localizacao": "Osasco",
+      "valor": "300 mil",
+      "metragem": "120m²",
+      "id": 2
+    },
+    {
+      "localizacao": "Riviéra",
+      "valor": "550 mil",
+      "metragem": "180m²",
+      "id": 3
+    },
+    {
+      "localizacao": "Lapa",
+      "valor": "170 mil",
+      "metragem": "180mº",
+      "id": 4
+    }
+  ],
+  "apartamentos": [
+    {
+      "localizacao": "Riviéra",
+      "valor": "550 mil",
+      "metragem": "200m²",
+      "id": 1
+    },
+    {
+      "localizacao": "Riviéra",
+      "valor": "550 mil",
+      "metragem": "200m²",
+      "id": 2
+    },
+    {
+      "localizacao": "Riviéra",
+      "valor": "550 mil",
+      "metragem": "200m²",
+      "id": 3
+    }
+  ]
+}
