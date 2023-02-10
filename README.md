@@ -15,7 +15,7 @@
   <h2 align="center">Documentação</h2>
   <h3 align="center">Métodos para acessar as rotas do arquivo json</h3>
   <p align="center">Para acessar as rotas do arquivo json pelo insominia, siga as instruções abaixo:</p>
-  <ul>
+  <ul list-style="none">
     <li>
       <p text-size="22px">GET</p>
       <ul>
