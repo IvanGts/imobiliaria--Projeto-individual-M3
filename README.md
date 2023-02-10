@@ -1,6 +1,7 @@
 <div>
  <h1 align="center">Projeto - Estão servidos?</h1>
  <h4>Projeto realizado sob treinamento da Reslília</h4>
+ <p align="center">Desenvoolvido uma simulação de API com rotas para ser acessadas por métodos.</p>
  </div>
 
 <div align="center" display="flex" padding="10px">
@@ -52,7 +53,7 @@
       <p text-size="22px">DELETE</p>
       <ul>
         <li>
-          <p> </p>
+          <p>z</p>
         </li>
       </ul>
     </li>
