@@ -15,44 +15,44 @@
   <h2 align="center">Documentação</h2>
   <h3 align="center">Métodos para acessar as rotas do arquivo json</h3>
   <p align="center">Para acessar as rotas do arquivo json pelo insominia, siga as instruções abaixo:</p>
-  <ul list-style="none">
-    <li>
+  <ul>
+    <li list-style="none">
       <p text-size="22px">GET</p>
       <ul>
-        <li>
+        <li list-style="none">
           <p>
           </p>
         </li>
       </ul>
     </li>
-    <li>
+    <li list-style="none">
       <p text-size="22px">POST</p>
       <ul>
-        <li>
+        <li list-style="none">
           <p> </p>
         </li>
       </ul>
     </li>
-    <li>
+    <li list-style="none">
       <p text-size="22px">PUT</p>
       <ul>
-        <li> 
+        <li list-style="none"> 
           <p> </p>
         </li>
       </ul>
     </li>
-    <li>
+    <li list-style="none">
       <p text-size="22px">PATCH</p>
       <ul>
-        <li>
+        <li list-style="none">
           <p> </p>
         </li>
       </ul>
     </li>
-    <li>
+    <li list-style="none">
       <p text-size="22px">DELETE</p>
       <ul>
-        <li>
+        <li list-style="none">
           <p>z</p>
         </li>
       </ul>
