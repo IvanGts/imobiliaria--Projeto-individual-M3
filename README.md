@@ -6,9 +6,9 @@
 <h2 align="center">Utilizado as tecnologias</h2>
 
 <div align="center" display="flex" padding="10px">
- <img src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
- <img src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
- <img src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
+ <img width="200px" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
+ <img width="200px" src="[https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg](https://st4.depositphotos.com/28636338/41694/v/600/depositphotos_416943040-stock-illustration-vector-json-file-icon.jpg)">
+ <img width="200px" src="https://miro.medium.com/max/930/0*MNVJq_8e0SJoqZb5.jpg">
 </div>
 
 <div border-bottom="solid 2px gray"></div>
