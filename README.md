@@ -1,7 +1,7 @@
 <div>
  <h1 align="center">Projeto - Estão servidos?</h1>
  <h4 align="center">Projeto realizado sob treinamento da Reslília</h4>
- <p align="center">Desenvoolvido uma simulação de API com rotas para ser acessadas por métodos.</p>
+ <p align="center">Desenvolvido uma simulação de API com rotas para ser acessadas por métodos.</p>
  </div>
 
 <div align="center" display="flex" padding="10px">
