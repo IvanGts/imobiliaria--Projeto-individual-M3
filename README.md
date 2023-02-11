@@ -24,10 +24,6 @@
          <p></p>
       </div>
       <div>
-         <p text-size="22px">PATCH</p>
-         <p></p>
-      </div>
-      <div>
          <p text-size="22px">PUT</p>
          <p></p>
       </div>
