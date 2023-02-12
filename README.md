@@ -46,7 +46,7 @@
    </section>
    <br>
    <br>
-   <div display: "flex" flex-direction: "column" padding:"10px">
+   <div display="flex" flex-direction="column" padding="10px">
      <p text-size="30px"><b>Rotas disponíveis:</b></p>
         <p>Raiz:</p>
         <p>http://localhost:3000/</p>
