@@ -1,5 +1,5 @@
 {
-  "cliente": [
+  "clientes": [
     {
       "nome": "Josefino Dias",
       "email": "finodias@gmail.com",
@@ -12,11 +12,16 @@
     },
     {
       "nome": "Pedro Alvez",
-      "email": "pedrinalvez@gmail.com",
+      "email": "pedrinalvez33@gmail.com",
       "id": 3
+    },
+    {
+      "nome": "Pedro albanes",
+      "email": "pedrinalvez@gmail.com",
+      "id": 5
     }
   ],
-  "funcionario": [
+  "funcionarios": [
     {
       "nome": "Aluisio ",
       "email": "ivanhsuhsus@gmail.com",
@@ -42,39 +47,39 @@
     },
     {
       "localizacao": "Osasco",
-      "valor": "300 mil",
-      "metragem": "120m²",
+      "valor": "350 mil",
+      "metragem": "100m²",
       "id": 2
     },
     {
       "localizacao": "Riviéra",
-      "valor": "550 mil",
+      "valor": "400 mil",
       "metragem": "180m²",
       "id": 3
     },
     {
       "localizacao": "Lapa",
       "valor": "170 mil",
-      "metragem": "180mº",
+      "metragem": "130mº",
       "id": 4
     }
   ],
   "apartamentos": [
     {
-      "localizacao": "Riviéra",
-      "valor": "550 mil",
-      "metragem": "200m²",
+      "localizacao": "Embu das Artes",
+      "valor": "440 mil",
+      "metragem": "160m²",
       "id": 1
     },
     {
       "localizacao": "Riviéra",
-      "valor": "550 mil",
+      "valor": "500 mil",
       "metragem": "200m²",
       "id": 2
     },
     {
-      "localizacao": "Riviéra",
-      "valor": "550 mil",
+      "localizacao": "São Paulo",
+      "valor": "400 mil",
       "metragem": "200m²",
       "id": 3
     }
