@@ -38,7 +38,7 @@
       </div>
    <div>
       <p><b>Como espeficiar o ID no link do local host:</b></p>
-      <img src="./assets/img/insomnia.PNG">
+      <img width="150px" src="./assets/img/insomnia.PNG">
     
    </div>
  
