@@ -17,24 +17,24 @@
     },
     {
       "nome": "Pedro albanes",
-      "email": "pedrinalvez@gmail.com",
-      "id": 5
+      "email": "albanes998@gmail.com",
+      "id": 4
     }
   ],
   "funcionarios": [
     {
-      "nome": "Aluisio ",
-      "email": "ivanhsuhsus@gmail.com",
+      "nome": "Aluisio Smurf",
+      "email": "smurfz234@gmail.com",
       "id": 1
     },
     {
       "id": 2,
-      "nome": "Ivan ",
+      "nome": "Antonio Carlos",
       "email": "ivanhsuhsus@gmail.com"
     },
     {
-      "nome": "Ivan ",
-      "email": "ivanhsuhsus@gmail.com",
+      "nome": "João Pedro",
+      "email": "jpedro1910@hotmail.com",
       "id": 3
     }
   ],
